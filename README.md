@@ -1,3 +1,4 @@
+![logo](https://github.com/manzoorfiza8/manzoorfiza8/blob/main/linkincover.jpg)
 <h1 align="center">Hi 👋, I'm Fiza</h1>
 <h3 align="center">A passionate frontend developer/Tech enthusiast from Pakistan</h3>
 <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
